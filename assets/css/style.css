@@ -6,3 +6,10 @@ body{
     font-family:"open sans", sans-serif;
     
 }
+footer{
+    color: white;
+}
+footer p i{
+    margin-left: 5px;
+    color:#ff88f5;
+}
